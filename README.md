@@ -7,7 +7,6 @@
     A wifi tool using ESP32 with GUI interface
   </p>
    
-
  
 <!-- Badges -->
 
@@ -25,26 +24,25 @@
     <a href="">YOUTUBE</a> -->
 </h4>
 </div> 
- 
+
+
 <br />
 
 
 ## 📖 Explore the Full Documentation
-
-Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/esp32-div-your-swiss-army-knife-for-wireless-networks/). Click the link and explore further!
+Ready to dive deeper into our project's details? Discover more details at [documentation](https://www.canadarobotix.com/collections/carobot-original). Click the link and explore further!
 
 
 ## ⚠ Future Changes
-- Fixing existing bugs (it has a lot * - *)
-- Adding De-Auth attack
-- Adding WiFi sniffer
-- Adding BLE scanner
+- Revision on the current code base
+- Explores machine learning features using the S3 version
+- Adds packet analyzer using machine learning
+- Seeks additional features
   
 
 <!-- About the Project -->
 ## :star2: About the Project
-a device that can not only monitor network traffic but also scan for nearby Wi-Fi networks, simulate beacon frames, and detect deauthentication attacks.
-
+This is a pocket-friendly device suitable for experiemental and educational use.
 
 
 <div align="center"> 
@@ -63,18 +61,14 @@ a device that can not only monitor network traffic but also scan for nearby Wi-F
 
 <!-- License --> 
 ## :warning: License
- 
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 
 <!-- Contact -->
 ## :handshake: Contact 
+▶ Support us at the store! [Downtown Toronto](https://www.canadarobotix.com/collections/carobot-original)
+<!-- Kevin L - [@twitter](...) - kliuengineering@gmali.com -->
 
-▶ Support me on Patreon [patreon.com/cifertech](https://www.patreon.com/cifertech)
-
-CiferTech - [@twitter](https://twitter.com/techcifer) - CiferTech@gmali.com
-
-Project Link: [https://github.com/cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV)
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements 
