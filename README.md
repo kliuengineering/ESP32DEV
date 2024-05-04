@@ -11,18 +11,18 @@
  
 <!-- Badges -->
 
-<a href="https://github.com/cifertech/ESP32-DIV" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=cifertech&message=ESP32-DIV&color=purple&logo=github" alt="cifertech - ESP32-DIV"></a>
-<a href="https://github.com/cifertech/ESP32-DIV"><img src="https://img.shields.io/github/stars/cifertech/ESP32-DIV?style=social" alt="stars - ESP32-DIV"></a>
-<a href="https://github.com/cifertech/ESP32-DIV"><img src="https://img.shields.io/github/forks/cifertech/ESP32-DIV?style=social" alt="forks - ESP32-DIV"></a>
+<a href="https://github.com/kliuengineering/ESP32DEV" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=kliuengineering&message=ESP32DEV&color=purple&logo=github" alt="kliuengineering - ESP32DEV"></a>
+<a href="https://github.com/kliuengineering/ESP32DEV"><img src="https://img.shields.io/github/stars/kliuengineering/ESP32DEV?style=social" alt="stars - ESP32DEV"></a>
+<a href="https://github.com/kliuengineering/ESP32DEV"><img src="https://img.shields.io/github/forks/kliuengineering/ESP32DEV?style=social" alt="forks - ESP32DEV"></a>
    
 <h4>
-    <a href="https://twitter.com/cifertech1">TWITTER</a>
+    <a href="https://twitter.com/carobotorg">TWITTER</a>
   <span> · </span>
-    <a href="https://www.instagram.com/cifertech/">INSTAGRAM</a>
+    <a href="https://www.instagram.com/carobotorg/">INSTAGRAM</a>
+<!--   <span> · </span>
+    <a href="">YOUTUBE</a> -->
   <span> · </span>
-    <a href="https://www.youtube.com/c/techcifer">YOUTUBE</a>
-  <span> · </span>
-    <a href="https://cifertech.net/">WEBSITE</a>
+    <a href="https://www.canadarobotix.com/">WEBSITE</a>
   </h4>
 </div> 
  
