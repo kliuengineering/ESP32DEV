@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://www.canadarobotix.com/cdn/shop/files/Canada-Robotix-Logo-with-Robot_360x.png?v=1613193294" alt="logo" width="100" height="auto" />
+  <img src="https://www.canadarobotix.com/cdn/shop/files/Canada-Robotix-Logo-with-Robot_360x.png?v=1613193294" alt="logo" width="600" height="auto" />
   <h1>Wifi Tool</h1>
    
   <p>
