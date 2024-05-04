@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/62047147/195847997-97553030-3b79-4643-9f2c-1f04bba6b989.png" alt="logo" width="100" height="auto" />
-  <h1>ESP32-DIV</h1>
+  <img src="https://www.canadarobotix.com/cdn/shop/files/Canada-Robotix-Logo-with-Robot_360x.png?v=1613193294" alt="logo" width="100" height="auto" />
+  <h1>Wifi Tool</h1>
    
   <p>
-    a Pentesting tool using ESP32 with GUI interface
+    A wifi tool using ESP32 with GUI interface
   </p>
    
 
