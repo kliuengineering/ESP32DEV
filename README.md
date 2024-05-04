@@ -16,14 +16,14 @@
 <a href="https://github.com/kliuengineering/ESP32DEV"><img src="https://img.shields.io/github/forks/kliuengineering/ESP32DEV?style=social" alt="forks - ESP32DEV"></a>
    
 <h4>
+    <a href="https://www.canadarobotix.com/">WEBSITE</a>
+  <span> · </span>
     <a href="https://twitter.com/carobotorg">TWITTER</a>
   <span> · </span>
     <a href="https://www.instagram.com/carobotorg/">INSTAGRAM</a>
 <!--   <span> · </span>
     <a href="">YOUTUBE</a> -->
-  <span> · </span>
-    <a href="https://www.canadarobotix.com/">WEBSITE</a>
-  </h4>
+</h4>
 </div> 
  
 <br />
