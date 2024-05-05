@@ -30,7 +30,7 @@
 
 
 ## 📖 Explore the Full Documentation
-Ready to dive deeper into our project's details? Discover more details at [documentation](https://www.canadarobotix.com/collections/carobot-original). Click the link and explore further!
+Ready to dive deeper into our project's details? Discover more details at [Canada Robotix](https://www.canadarobotix.com/collections/carobot-original). Click the link and explore further!
 
 
 ## ⚠ Future Changes
