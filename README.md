@@ -66,8 +66,8 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 <!-- Contact -->
 ## :handshake: Contact 
-▶ Support us at the store! [Downtown Toronto](https://www.canadarobotix.com/collections/carobot-original)
-<!-- Kevin L - [@twitter](...) - kliuengineering@gmali.com -->
+▶ Support us at the store! [Downtown Toronto](https://maps.app.goo.gl/XuBxDAodW5EZSHhq8)
+<!-- Authour: Kevin L - [@twitter](...) -->
 
 
 <!-- Acknowledgments -->
