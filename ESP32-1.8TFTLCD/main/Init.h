@@ -17,7 +17,13 @@
  *
  * COPYRIGHT NOTICE: All rights reserved. Unauthorized copying of this file,
  * via any medium is strictly prohibited without the express permission of the
- * author.
+ * authour.
+ */
+
+
+ /*
+  This is a record of keeping which PINs are used already.
+  Non-available PINs -> { 2, 4, 5, 18, 22, 23, 27, 32, }
  */
 
 
@@ -27,6 +33,7 @@
 
 #include <Adafruit_GFX.h>
 #include <Adafruit_ST7735.h>
+#include "PushButton.h"
 
 
 // on-board LED blinking pins
@@ -45,8 +52,16 @@
 extern Adafruit_ST7735 tft;
 
 
+// PBs definition to ESP32
+// assigns the RIGHT button to 22
+#define PIN_PB_OK 22
+#define PIN_PB_RIGHT 21
+#define PIN_PB_LEFT 16
+#define PIN_PB_CANCEL 15
+
+
 // on-board LED blink-test
-void TestBlinkLED(void);
+void InitOnBoardLED(void);
 
 
 // utility function -> draws CAROBOT
@@ -55,6 +70,14 @@ void UtilDrawRobot(int, int);
 
 // 7735 LCD initialization-test
 void InitLCD(void);
+
+
+// sets up on-board PB
+void InitPB(void);
+
+
+// Tests the on-board PB and see if it lights up the LED or not
+void TestOnBoardPB(PushButton &);
 
 
 #endif

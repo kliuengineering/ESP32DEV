@@ -4,7 +4,7 @@
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCLK, TFT_RST);
 
 
-void TestBlinkLED(void)
+void InitOnBoardLED(void)
 {
   // recognizes the onboard blue LED
   pinMode(PIN_LED, OUTPUT);
@@ -98,4 +98,19 @@ void InitLCD(void)
   // delay(500);
 
   tft.fillScreen(ST7735_BLACK);
+}
+
+
+void TestOnBoardPB(PushButton &button) 
+{
+    button.read();  // Update button state and check for events
+
+    if (button.is_pressed()) 
+    {
+        digitalWrite(PIN_LED, LOW);  // Turn LED on when button is pressed
+    } 
+    else if (button.is_released()) 
+    {
+        digitalWrite(PIN_LED, HIGH); // Turn LED off when button is released
+    }
 }
