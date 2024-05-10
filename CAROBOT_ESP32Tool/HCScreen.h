@@ -1,7 +1,26 @@
-/* ____________________________
-   This software is licensed under the MIT License:
-   https://github.com/cifertech/ESP32-DIV
-   ________________________________________ */
+/**************************************************************************************
+
+ * @file HCScreen.h
+ * @brief Header file for interfacing ESP32 with 1.8" TFT LCD.
+ *
+ * This file contains an abstract interface class for producing content specifically
+ * to the 1.8" TFT LCD. The original codes are adapted from G. Lechner's SmartHome projects.
+ * There are many options for interfacing the TFT LCDs, so you do not need to stick to this one. 
+ * This version is modified per Canada Robotix's needs under the GNU LGP License.
+ *
+ * @author Kevin Liu, adapted from G. Lechner (originator)
+ * @date Created on: 2024-05-06
+ * @version 1.0
+ *
+ * @note This code is intended for educational purposes and can be used
+ *       as a base for further development and integration within various
+ *       projects.
+ *
+ * COPYRIGHT NOTICE: All rights reserved. Unauthorized copying of this file,
+ * via any medium is strictly prohibited without the express permission of
+ * Canada Robotix.
+
+****************************************************************************************/
 
 #ifndef HCScreen_h
 #define HCScreen_h

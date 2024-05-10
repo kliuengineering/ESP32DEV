@@ -2,7 +2,7 @@
 #include "packetmonitor.h"
 
 
-// uses FFT 1.6.2, DO NOT use newer version, commented by Kevin Liu
+// uses FFT 1.6.2, DO NOT use newer versions, commented by Kevin Liu
 arduinoFFT FFT = arduinoFFT();
 extern Adafruit_NeoPixel pixels;
 extern Adafruit_ST7735 tft;

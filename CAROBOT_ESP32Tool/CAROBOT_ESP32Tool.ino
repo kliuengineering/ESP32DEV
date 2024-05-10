@@ -71,6 +71,7 @@ void loop()
   {
     while (digitalRead(button_confirm) == 0)
       delay(100);
+      
 
     if (selection == "Back") 
     {
@@ -82,15 +83,20 @@ void loop()
     {
       // Execute the selected setup and loop functions
       setupFunctions[selectionIndex]();
-      while (selection == main_menu[selectionIndex]) 
+      
+      while ( selection == main_menu[selectionIndex] ) 
       {
-        loopFunctions[selectionIndex]();
+        loopFunctions[selectionIndex]
+        ();
+
         if (digitalRead(button_back) == 0) 
         {
-          screen.setMenu(main_menu, main_menu_cnt);
+          screen.setMenu( main_menu, main_menu_cnt );
           break;
         }
+
       }
     }
+
   }
 }

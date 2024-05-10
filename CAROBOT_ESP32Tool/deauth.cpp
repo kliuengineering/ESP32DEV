@@ -1,7 +1,4 @@
-/* ____________________________
-   This software is licensed under the MIT License:
-   https://github.com/cifertech/ESP32-DIV
-   ________________________________________ */
+/* WIP - Keep out */
 
 #include <Arduino.h> 
 #include "deauth.h"

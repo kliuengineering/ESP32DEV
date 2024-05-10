@@ -1,7 +1,5 @@
-/* ____________________________
-   This software is licensed under the MIT License:
-   https://github.com/cifertech/ESP32-DIV
-   ________________________________________ */
+/* Please refer to HCScreen.h file for detailed Licensing */
+
 
 #include "Adafruit_ST7735.h"
 #include "Arduino.h"
@@ -9,6 +7,7 @@
 #include "FS.h"
 #include "SD.h"
 #define CHAR_WIDTH 6
+
 
 //This is a mapping table for special characters
 const byte ANSI[128] = {
@@ -197,8 +196,8 @@ void HCScreen::showCodeset() {
       c++;
     }
   }
-
 }
+
 //show a 31x31 pixel icon on position calculated from index
 //the bitmap is a rgb bitmap with 8-bit R, G and B
 void HCScreen::showIcon(uint8_t index, const HCIcon *icon){

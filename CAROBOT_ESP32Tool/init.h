@@ -108,7 +108,7 @@ void InitLCD()
   tft.setRotation(0);
 
   // prints the LOGO
-  tft.drawBitmap(12, 5, skull1, 100, 100,ORANGE);
+  tft.drawBitmap(12, 5, carobot_bw, 100, 100, ORANGE);
 
   // prints the text
   tft.setTextWrap(false);
@@ -145,6 +145,10 @@ void InitMenu( HCScreen &screen, String main_menu[], uint8_t main_menu_cnt )
   screen.setTitle("Canada Robotix Inc.");
   screen.setLineHeight(12);
 }
+
+
+// ISR for quitting the current feature selection, and back to the main menu
+
 
 
 #endif
