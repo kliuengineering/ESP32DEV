@@ -46,7 +46,7 @@ This is a pocket-friendly device suitable for experiemental and educational use.
 
 
 <div align="center"> 
-  <img src="https://github.com/cifertech/ESP32-DIV/assets/62047147/335e1228-4cb5-4aa0-9b72-c09dcf7b02f9" alt="screenshot" width="Auto" height="Auto" />
+  <img src="/IMG_0120.png" alt="screenshot" width="Auto" height="Auto" />
 </div>
 
 
